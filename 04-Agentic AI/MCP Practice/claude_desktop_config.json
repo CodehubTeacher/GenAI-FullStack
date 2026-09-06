@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "research": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/Users/rishi8313/Downloads/mcp_project/",
+        "run",
+        "research_server.py"
+      ]
+    }
+  }
+}

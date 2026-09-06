@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "research_server": {
+      "command": "uv",
+      "args": ["run", "research_server.py"]
+    }
+  }
+}

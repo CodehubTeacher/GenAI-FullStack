@@ -1,0 +1,1 @@
+Place plain .txt documents here for the History Bot demo. Each .txt file is treated as a document.

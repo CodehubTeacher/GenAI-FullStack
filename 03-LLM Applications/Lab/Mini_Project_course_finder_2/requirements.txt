@@ -1,0 +1,5 @@
+streamlit
+langchain>=0.0.300
+langchain-google-genai
+serpapi
+python-dotenv
